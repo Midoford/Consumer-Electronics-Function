@@ -2,7 +2,7 @@
 ## Report
 **Project Objectives:**
 
-- **Accelerate Data-Informed Decision Making** ([SQL_REQUEST_AND_OUTPUT]([ https://github.com/Midoford/Churn-Analysis/blob/main/Exercise.pbix](https://github.com/Midoford/Consumer-Electronics-Function))): Deliver rapid, actionable insights to Atliq Hardwares' management through SQL analysis of ad-hoc requests.
+- **Accelerate Data-Informed Decision Making**([SQL_REQUEST_AND_OUTPUT](https://github.com/Midoford/Consumer-Electronics-Function/tree/main/SQL_QUERIES))  : Deliver rapid, actionable insights to Atliq Hardwares' management through SQL analysis of ad-hoc requests.
 
 - **Effective Recruitment of Data Analysts** Implement a SQL challenge to evaluate candidates' technical and communication skills for expanding the analytics team.
 
@@ -24,3 +24,5 @@
 - [x] A problem-solving mindset helps identify root causes of churn and propose innovative solutions to retain customers.
 
 **This project aims to leverage both technical prowess and interpersonal skills to create actionable, insightful reports that drive business growth and strategic decision-making.**
+
+([SQL_REQUEST_AND_OUTPUT](https://github.com/Midoford/Consumer-Electronics-Function/tree/main/SQL_QUERIES)) 
